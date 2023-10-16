@@ -1,5 +1,5 @@
 # August
-# First Readme and Repo finished
+First Readme and Repo finished
  _______    _______    _______    _______   
 (  ____ \  (  ____ \  (  ___  )  (  ____ )  
 | (    \/  | (    \/  | (   ) |  | (    )|  
